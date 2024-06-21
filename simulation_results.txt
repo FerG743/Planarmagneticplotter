@@ -1,27 +1,2699 @@
 Simulation 1:
 Configuration:
-  current: 1.0
-  n_turns: 25
-  conductor_thickness: 0.00089
-  spacing_between_coils: 0.0089
-  radius_coil: 0.045
-  central_gap_radius: 0.02
+  current: 0.6950268499042446
+  n_turns: 32
+  conductor_thickness: 0.0002277387899983911
+  spacing_between_coils: 0.00012285987880392943
+  radius_coil: 0.0017130415859891216
+  central_gap_radius: 0.0006462921707880108
   num_points: 700
 Results:
-  Max Field: 0.000182 T
-  Min Field: 0.000073 T
-  Mean Field: 0.000113 T
-  Median Field: 0.000107 T
-  Standard Deviation: 0.000024 T
+  Max Field: 0.003974 T
+  Mean Field: 0.002420 T
+  Median Field: 0.002288 T
+  Standard Deviation: 0.000501 T
   Magnetic field at different distances from center:
-    At 0.00 mm: 0.000182 T
-    At 5.00 mm: 0.000177 T
-    At 10.00 mm: 0.000166 T
-    At 15.00 mm: 0.000152 T
-    At 20.00 mm: 0.000139 T
-    At 25.00 mm: 0.000128 T
-    At 30.00 mm: 0.000117 T
-    At 35.00 mm: 0.000109 T
-    At 40.00 mm: 0.000101 T
-    At 45.00 mm: 0.000094 T
+    At 0.00 mm: 0.003974 T
+    At 0.19 mm: 0.003850 T
+    At 0.38 mm: 0.003561 T
+    At 0.57 mm: 0.003242 T
+    At 0.76 mm: 0.002955 T
+    At 0.95 mm: 0.002709 T
+    At 1.14 mm: 0.002504 T
+    At 1.33 mm: 0.002322 T
+    At 1.52 mm: 0.002163 T
+    At 1.71 mm: 0.002023 T
+
+Simulation 2:
+Configuration:
+  current: 0.9680600167181991
+  n_turns: 27
+  conductor_thickness: 0.0001536369709979572
+  spacing_between_coils: 0.00011854093914536155
+  radius_coil: 0.006758418331699607
+  central_gap_radius: 0.00036818276590744634
+  num_points: 700
+Results:
+  Max Field: 0.007678 T
+  Min Field: 0.000237 T
+  Mean Field: 0.001024 T
+  Median Field: 0.000728 T
+  Standard Deviation: 0.000843 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.007678 T
+    At 0.75 mm: 0.004502 T
+    At 1.50 mm: 0.002999 T
+    At 2.25 mm: 0.002166 T
+    At 3.00 mm: 0.001621 T
+    At 3.75 mm: 0.001240 T
+    At 4.51 mm: 0.000969 T
+    At 5.26 mm: 0.000762 T
+    At 6.01 mm: 0.000607 T
+    At 6.76 mm: 0.000488 T
+
+Simulation 3:
+Configuration:
+  current: 0.8809837518192624
+  n_turns: 28
+  conductor_thickness: 0.00018288774667703814
+  spacing_between_coils: 0.00012542879089218184
+  radius_coil: 0.007736044236648719
+  central_gap_radius: 0.003990691758455784
+  num_points: 700
+Results:
+  Max Field: 0.002116 T
+  Min Field: 0.000381 T
+  Mean Field: 0.001003 T
+  Median Field: 0.000891 T
+  Standard Deviation: 0.000407 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002116 T
+    At 0.86 mm: 0.002058 T
+    At 1.72 mm: 0.001901 T
+    At 2.58 mm: 0.001692 T
+    At 3.44 mm: 0.001471 T
+    At 4.30 mm: 0.001262 T
+    At 5.16 mm: 0.001081 T
+    At 6.02 mm: 0.000920 T
+    At 6.88 mm: 0.000783 T
+    At 7.74 mm: 0.000668 T
+
+Simulation 4:
+Configuration:
+  current: 0.9775186385766089
+  n_turns: 37
+  conductor_thickness: 0.00023582819227390827
+  spacing_between_coils: 0.00015058229638976138
+  radius_coil: 0.007390942094355356
+  central_gap_radius: 0.003105971727195049
+  num_points: 700
+Results:
+  Max Field: 0.002822 T
+  Min Field: 0.000655 T
+  Mean Field: 0.001423 T
+  Median Field: 0.001291 T
+  Standard Deviation: 0.000490 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002822 T
+    At 0.82 mm: 0.002737 T
+    At 1.64 mm: 0.002517 T
+    At 2.46 mm: 0.002243 T
+    At 3.28 mm: 0.001971 T
+    At 4.11 mm: 0.001724 T
+    At 4.93 mm: 0.001508 T
+    At 5.75 mm: 0.001325 T
+    At 6.57 mm: 0.001164 T
+    At 7.39 mm: 0.001025 T
+
+Simulation 5:
+Configuration:
+  current: 0.48600403206212894
+  n_turns: 27
+  conductor_thickness: 0.00014197784947144165
+  spacing_between_coils: 0.00012334380423995698
+  radius_coil: 0.0015539351185762508
+  central_gap_radius: 0.00029069124480389676
+  num_points: 700
+Results:
+  Max Field: 0.004313 T
+  Min Field: 0.001106 T
+  Mean Field: 0.001871 T
+  Median Field: 0.001713 T
+  Standard Deviation: 0.000547 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.004313 T
+    At 0.17 mm: 0.003816 T
+    At 0.35 mm: 0.003152 T
+    At 0.52 mm: 0.002696 T
+    At 0.69 mm: 0.002369 T
+    At 0.86 mm: 0.002117 T
+    At 1.04 mm: 0.001917 T
+    At 1.21 mm: 0.001744 T
+    At 1.38 mm: 0.001597 T
+    At 1.55 mm: 0.001469 T
+
+Simulation 6:
+Configuration:
+  current: 0.6411058616674763
+  n_turns: 33
+  conductor_thickness: 0.0002443746412156184
+  spacing_between_coils: 0.00010913127387826243
+  radius_coil: 0.006348111654610785
+  central_gap_radius: 0.0054134233854592605
+  num_points: 700
+Results:
+  Max Field: 0.001335 T
+  Min Field: 0.000520 T
+  Mean Field: 0.000912 T
+  Median Field: 0.000883 T
+  Standard Deviation: 0.000195 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001335 T
+    At 0.71 mm: 0.001321 T
+    At 1.41 mm: 0.001282 T
+    At 2.12 mm: 0.001222 T
+    At 2.82 mm: 0.001147 T
+    At 3.53 mm: 0.001065 T
+    At 4.23 mm: 0.000983 T
+    At 4.94 mm: 0.000899 T
+    At 5.64 mm: 0.000820 T
+    At 6.35 mm: 0.000745 T
+
+Simulation 7:
+Configuration:
+  current: 0.9359018509498108
+  n_turns: 24
+  conductor_thickness: 0.00024949759844853476
+  spacing_between_coils: 0.00022553461711648291
+  radius_coil: 0.008685801432949353
+  central_gap_radius: 0.001372591855471865
+  num_points: 700
+Results:
+  Max Field: 0.002964 T
+  Min Field: 0.000224 T
+  Mean Field: 0.000751 T
+  Median Field: 0.000591 T
+  Standard Deviation: 0.000468 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002964 T
+    At 0.97 mm: 0.002511 T
+    At 1.93 mm: 0.001898 T
+    At 2.90 mm: 0.001461 T
+    At 3.86 mm: 0.001151 T
+    At 4.83 mm: 0.000922 T
+    At 5.79 mm: 0.000751 T
+    At 6.76 mm: 0.000614 T
+    At 7.72 mm: 0.000507 T
+    At 8.69 mm: 0.000421 T
+
+Simulation 8:
+Configuration:
+  current: 0.1752002692538442
+  n_turns: 40
+  conductor_thickness: 0.00011726136308665109
+  spacing_between_coils: 0.00011631826858979956
+  radius_coil: 0.007535967034193785
+  central_gap_radius: 0.004597230695464579
+  num_points: 700
+Results:
+  Max Field: 0.000531 T
+  Min Field: 0.000124 T
+  Mean Field: 0.000287 T
+  Median Field: 0.000264 T
+  Standard Deviation: 0.000097 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000531 T
+    At 0.84 mm: 0.000520 T
+    At 1.67 mm: 0.000491 T
+    At 2.51 mm: 0.000449 T
+    At 3.35 mm: 0.000402 T
+    At 4.19 mm: 0.000355 T
+    At 5.02 mm: 0.000311 T
+    At 5.86 mm: 0.000271 T
+    At 6.70 mm: 0.000236 T
+    At 7.54 mm: 0.000205 T
+
+Simulation 9:
+Configuration:
+  current: 0.9863677196101751
+  n_turns: 39
+  conductor_thickness: 0.0001821638023619556
+  spacing_between_coils: 0.00011889376443710791
+  radius_coil: 0.0051342935893443995
+  central_gap_radius: 0.004394734979237912
+  num_points: 700
+Results:
+  Max Field: 0.002730 T
+  Min Field: 0.001171 T
+  Mean Field: 0.001934 T
+  Median Field: 0.001882 T
+  Standard Deviation: 0.000372 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002730 T
+    At 0.57 mm: 0.002704 T
+    At 1.14 mm: 0.002631 T
+    At 1.71 mm: 0.002519 T
+    At 2.28 mm: 0.002380 T
+    At 2.85 mm: 0.002226 T
+    At 3.42 mm: 0.002071 T
+    At 3.99 mm: 0.001913 T
+    At 4.56 mm: 0.001761 T
+    At 5.13 mm: 0.001617 T
+
+Simulation 10:
+Configuration:
+  current: 0.6126905426281413
+  n_turns: 28
+  conductor_thickness: 0.00016395153174450934
+  spacing_between_coils: 0.00011467472202310699
+  radius_coil: 0.005449669725310475
+  central_gap_radius: 0.0013733850802123324
+  num_points: 700
+Results:
+  Max Field: 0.002748 T
+  Min Field: 0.000326 T
+  Mean Field: 0.000944 T
+  Median Field: 0.000786 T
+  Standard Deviation: 0.000485 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002748 T
+    At 0.61 mm: 0.002540 T
+    At 1.21 mm: 0.002123 T
+    At 1.82 mm: 0.001732 T
+    At 2.42 mm: 0.001416 T
+    At 3.03 mm: 0.001167 T
+    At 3.63 mm: 0.000973 T
+    At 4.24 mm: 0.000814 T
+    At 4.84 mm: 0.000685 T
+    At 5.45 mm: 0.000579 T
+
+Simulation 11:
+Configuration:
+  current: 0.3731840487896114
+  n_turns: 31
+  conductor_thickness: 0.00014486685697378044
+  spacing_between_coils: 0.00013283463265284677
+  radius_coil: 0.009888526099713146
+  central_gap_radius: 0.008324216074206536
+  num_points: 700
+Results:
+  Max Field: 0.000607 T
+  Min Field: 0.000166 T
+  Mean Field: 0.000363 T
+  Median Field: 0.000343 T
+  Standard Deviation: 0.000107 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000607 T
+    At 1.10 mm: 0.000598 T
+    At 2.20 mm: 0.000574 T
+    At 3.30 mm: 0.000537 T
+    At 4.39 mm: 0.000493 T
+    At 5.49 mm: 0.000445 T
+    At 6.59 mm: 0.000398 T
+    At 7.69 mm: 0.000352 T
+    At 8.79 mm: 0.000310 T
+    At 9.89 mm: 0.000272 T
+
+Simulation 12:
+Configuration:
+  current: 0.2430372511068954
+  n_turns: 38
+  conductor_thickness: 0.0002189319760278335
+  spacing_between_coils: 0.0001692691146276701
+  radius_coil: 0.008631306078314726
+  central_gap_radius: 0.006920441171521619
+  num_points: 700
+Results:
+  Max Field: 0.000457 T
+  Min Field: 0.000164 T
+  Mean Field: 0.000301 T
+  Median Field: 0.000290 T
+  Standard Deviation: 0.000070 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000457 T
+    At 0.96 mm: 0.000451 T
+    At 1.92 mm: 0.000436 T
+    At 2.88 mm: 0.000413 T
+    At 3.84 mm: 0.000385 T
+    At 4.80 mm: 0.000355 T
+    At 5.75 mm: 0.000324 T
+    At 6.71 mm: 0.000295 T
+    At 7.67 mm: 0.000267 T
+    At 8.63 mm: 0.000241 T
+
+Simulation 13:
+Configuration:
+  current: 0.6802658055073358
+  n_turns: 24
+  conductor_thickness: 0.00011529572765571243
+  spacing_between_coils: 0.00010949448177662221
+  radius_coil: 0.006675340500127181
+  central_gap_radius: 0.0033513987419808225
+  num_points: 700
+Results:
+  Max Field: 0.001864 T
+  Min Field: 0.000252 T
+  Mean Field: 0.000784 T
+  Median Field: 0.000670 T
+  Standard Deviation: 0.000377 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001864 T
+    At 0.74 mm: 0.001803 T
+    At 1.48 mm: 0.001641 T
+    At 2.23 mm: 0.001428 T
+    At 2.97 mm: 0.001210 T
+    At 3.71 mm: 0.001009 T
+    At 4.45 mm: 0.000840 T
+    At 5.19 mm: 0.000695 T
+    At 5.93 mm: 0.000576 T
+    At 6.68 mm: 0.000479 T
+
+Simulation 14:
+Configuration:
+  current: 0.6369281423508694
+  n_turns: 36
+  conductor_thickness: 0.00012461595788410573
+  spacing_between_coils: 0.0001137752289169648
+  radius_coil: 0.008793968010302841
+  central_gap_radius: 0.007051491110986171
+  num_points: 700
+Results:
+  Max Field: 0.001352 T
+  Min Field: 0.000370 T
+  Mean Field: 0.000805 T
+  Median Field: 0.000760 T
+  Standard Deviation: 0.000238 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001352 T
+    At 0.98 mm: 0.001333 T
+    At 1.95 mm: 0.001277 T
+    At 2.93 mm: 0.001193 T
+    At 3.91 mm: 0.001093 T
+    At 4.89 mm: 0.000985 T
+    At 5.86 mm: 0.000880 T
+    At 6.84 mm: 0.000779 T
+    At 7.82 mm: 0.000686 T
+    At 8.79 mm: 0.000602 T
+
+Simulation 15:
+Configuration:
+  current: 0.27169807272578134
+  n_turns: 24
+  conductor_thickness: 0.00015537884292710362
+  spacing_between_coils: 0.00014775817824196617
+  radius_coil: 0.0024009905368191095
+  central_gap_radius: 9.883993547060653e-05
+  num_points: 700
+Results:
+  Max Field: 0.003585 T
+  Min Field: 0.000335 T
+  Mean Field: 0.000684 T
+  Median Field: 0.000602 T
+  Standard Deviation: 0.000277 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003585 T
+    At 0.27 mm: 0.001682 T
+    At 0.53 mm: 0.001296 T
+    At 0.80 mm: 0.001071 T
+    At 1.07 mm: 0.000912 T
+    At 1.33 mm: 0.000792 T
+    At 1.60 mm: 0.000695 T
+    At 1.87 mm: 0.000617 T
+    At 2.13 mm: 0.000549 T
+    At 2.40 mm: 0.000491 T
+
+Simulation 16:
+Configuration:
+  current: 0.576502338428304
+  n_turns: 31
+  conductor_thickness: 0.00010644111854776425
+  spacing_between_coils: 0.00010413155005123619
+  radius_coil: 0.0020137574024073754
+  central_gap_radius: 0.0005717662179616171
+  num_points: 700
+Results:
+  Max Field: 0.004643 T
+  Min Field: 0.001210 T
+  Mean Field: 0.002251 T
+  Median Field: 0.002053 T
+  Standard Deviation: 0.000699 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.004643 T
+    At 0.22 mm: 0.004397 T
+    At 0.45 mm: 0.003885 T
+    At 0.67 mm: 0.003385 T
+    At 0.90 mm: 0.002965 T
+    At 1.12 mm: 0.002620 T
+    At 1.34 mm: 0.002340 T
+    At 1.57 mm: 0.002098 T
+    At 1.79 mm: 0.001889 T
+    At 2.01 mm: 0.001709 T
+
+Simulation 17:
+Configuration:
+  current: 0.19665941563799147
+  n_turns: 32
+  conductor_thickness: 0.00015812082998920498
+  spacing_between_coils: 0.00012817225828059685
+  radius_coil: 0.008548906775587931
+  central_gap_radius: 0.0012108578878259747
+  num_points: 700
+Results:
+  Max Field: 0.000974 T
+  Min Field: 0.000053 T
+  Mean Field: 0.000210 T
+  Median Field: 0.000156 T
+  Standard Deviation: 0.000152 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000974 T
+    At 0.95 mm: 0.000804 T
+    At 1.90 mm: 0.000586 T
+    At 2.85 mm: 0.000437 T
+    At 3.80 mm: 0.000333 T
+    At 4.75 mm: 0.000258 T
+    At 5.70 mm: 0.000203 T
+    At 6.65 mm: 0.000163 T
+    At 7.60 mm: 0.000131 T
+    At 8.55 mm: 0.000106 T
+
+Simulation 18:
+Configuration:
+  current: 0.5342567126526537
+  n_turns: 37
+  conductor_thickness: 0.00010786565515602557
+  spacing_between_coils: 0.0001022834697542753
+  radius_coil: 0.008739725168517192
+  central_gap_radius: 0.004597942045853226
+  num_points: 700
+Results:
+  Max Field: 0.001604 T
+  Min Field: 0.000251 T
+  Mean Field: 0.000723 T
+  Median Field: 0.000632 T
+  Standard Deviation: 0.000319 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001604 T
+    At 0.97 mm: 0.001558 T
+    At 1.94 mm: 0.001434 T
+    At 2.91 mm: 0.001266 T
+    At 3.88 mm: 0.001090 T
+    At 4.86 mm: 0.000923 T
+    At 5.83 mm: 0.000777 T
+    At 6.80 mm: 0.000654 T
+    At 7.77 mm: 0.000549 T
+    At 8.74 mm: 0.000462 T
+
+Simulation 19:
+Configuration:
+  current: 0.9953417867160586
+  n_turns: 24
+  conductor_thickness: 0.00013744969882935288
+  spacing_between_coils: 0.00011441133441537072
+  radius_coil: 0.0071717704750403795
+  central_gap_radius: 0.002764171432936007
+  num_points: 700
+Results:
+  Max Field: 0.002957 T
+  Min Field: 0.000298 T
+  Mean Field: 0.001046 T
+  Median Field: 0.000847 T
+  Standard Deviation: 0.000590 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002957 T
+    At 0.80 mm: 0.002814 T
+    At 1.59 mm: 0.002463 T
+    At 2.39 mm: 0.002050 T
+    At 3.19 mm: 0.001668 T
+    At 3.98 mm: 0.001346 T
+    At 4.78 mm: 0.001091 T
+    At 5.58 mm: 0.000883 T
+    At 6.37 mm: 0.000719 T
+    At 7.17 mm: 0.000589 T
+
+Simulation 20:
+Configuration:
+  current: 0.316715485198122
+  n_turns: 30
+  conductor_thickness: 0.000117362684297067
+  spacing_between_coils: 0.00010693418669530031
+  radius_coil: 0.0008647367556393574
+  central_gap_radius: 0.00028927574632597533
+  num_points: 700
+Results:
+  Max Field: 0.003201 T
+  Min Field: 0.001284 T
+  Mean Field: 0.001880 T
+  Median Field: 0.001774 T
+  Standard Deviation: 0.000388 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003201 T
+    At 0.10 mm: 0.003069 T
+    At 0.19 mm: 0.002786 T
+    At 0.29 mm: 0.002506 T
+    At 0.38 mm: 0.002274 T
+    At 0.48 mm: 0.002086 T
+    At 0.58 mm: 0.001932 T
+    At 0.67 mm: 0.001798 T
+    At 0.77 mm: 0.001682 T
+    At 0.86 mm: 0.001580 T
+
+Simulation 21:
+Configuration:
+  current: 0.6066252582476341
+  n_turns: 27
+  conductor_thickness: 9.500633241860499e-05
+  spacing_between_coils: 9.44661857535572e-05
+  radius_coil: 0.008502675328138748
+  central_gap_radius: 0.0010907121839920943
+  num_points: 700
+Results:
+  Max Field: 0.003646 T
+  Min Field: 0.000071 T
+  Mean Field: 0.000480 T
+  Median Field: 0.000279 T
+  Standard Deviation: 0.000526 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003646 T
+    At 0.94 mm: 0.002795 T
+    At 1.89 mm: 0.001806 T
+    At 2.83 mm: 0.001190 T
+    At 3.78 mm: 0.000807 T
+    At 4.72 mm: 0.000563 T
+    At 5.67 mm: 0.000405 T
+    At 6.61 mm: 0.000296 T
+    At 7.56 mm: 0.000221 T
+    At 8.50 mm: 0.000169 T
+
+Simulation 22:
+Configuration:
+  current: 0.11653441130306462
+  n_turns: 31
+  conductor_thickness: 0.0001198242613553017
+  spacing_between_coils: 0.00010964338764640297
+  radius_coil: 0.002217072334533295
+  central_gap_radius: 0.001045874190703634
+  num_points: 700
+Results:
+  Max Field: 0.000687 T
+  Min Field: 0.000233 T
+  Mean Field: 0.000409 T
+  Median Field: 0.000384 T
+  Standard Deviation: 0.000103 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000687 T
+    At 0.25 mm: 0.000672 T
+    At 0.49 mm: 0.000632 T
+    At 0.74 mm: 0.000580 T
+    At 0.99 mm: 0.000526 T
+    At 1.23 mm: 0.000476 T
+    At 1.48 mm: 0.000432 T
+    At 1.72 mm: 0.000391 T
+    At 1.97 mm: 0.000356 T
+    At 2.22 mm: 0.000324 T
+
+Simulation 23:
+Configuration:
+  current: 0.4362486840524715
+  n_turns: 33
+  conductor_thickness: 0.00016760949162460657
+  spacing_between_coils: 0.00010729835479360045
+  radius_coil: 0.00981498927836447
+  central_gap_radius: 0.007057051891917221
+  num_points: 700
+Results:
+  Max Field: 0.000835 T
+  Min Field: 0.000195 T
+  Mean Field: 0.000462 T
+  Median Field: 0.000428 T
+  Standard Deviation: 0.000155 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000835 T
+    At 1.09 mm: 0.000821 T
+    At 2.18 mm: 0.000779 T
+    At 3.27 mm: 0.000719 T
+    At 4.36 mm: 0.000648 T
+    At 5.45 mm: 0.000574 T
+    At 6.54 mm: 0.000503 T
+    At 7.63 mm: 0.000440 T
+    At 8.72 mm: 0.000382 T
+    At 9.81 mm: 0.000331 T
+
+Simulation 24:
+Configuration:
+  current: 0.4401350819304204
+  n_turns: 33
+  conductor_thickness: 0.00010220157809001683
+  spacing_between_coils: 9.745766775431187e-05
+  radius_coil: 0.007416957814838862
+  central_gap_radius: 0.00039628939873988283
+  num_points: 700
+Results:
+  Max Field: 0.004330 T
+  Min Field: 0.000094 T
+  Mean Field: 0.000495 T
+  Median Field: 0.000323 T
+  Standard Deviation: 0.000475 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.004330 T
+    At 0.82 mm: 0.002524 T
+    At 1.65 mm: 0.001613 T
+    At 2.47 mm: 0.001117 T
+    At 3.30 mm: 0.000803 T
+    At 4.12 mm: 0.000591 T
+    At 4.94 mm: 0.000447 T
+    At 5.77 mm: 0.000340 T
+    At 6.59 mm: 0.000264 T
+    At 7.42 mm: 0.000207 T
+
+Simulation 25:
+Configuration:
+  current: 0.9314558871838788
+  n_turns: 25
+  conductor_thickness: 0.0002238571725572925
+  spacing_between_coils: 0.00015236373050141785
+  radius_coil: 0.007313471797177186
+  central_gap_radius: 0.002426885240444751
+  num_points: 700
+Results:
+  Max Field: 0.002563 T
+  Min Field: 0.000337 T
+  Mean Field: 0.000977 T
+  Median Field: 0.000825 T
+  Standard Deviation: 0.000479 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002563 T
+    At 0.81 mm: 0.002430 T
+    At 1.63 mm: 0.002119 T
+    At 2.44 mm: 0.001778 T
+    At 3.25 mm: 0.001475 T
+    At 4.06 mm: 0.001223 T
+    At 4.88 mm: 0.001022 T
+    At 5.69 mm: 0.000854 T
+    At 6.50 mm: 0.000717 T
+    At 7.31 mm: 0.000605 T
+
+Simulation 26:
+Configuration:
+  current: 0.9963045608176977
+  n_turns: 20
+  conductor_thickness: 0.00018510289233361415
+  spacing_between_coils: 9.81533370755208e-05
+  radius_coil: 0.0037828597260504138
+  central_gap_radius: 0.002085407312142376
+  num_points: 700
+Results:
+  Max Field: 0.003014 T
+  Min Field: 0.000704 T
+  Mean Field: 0.001593 T
+  Median Field: 0.001458 T
+  Standard Deviation: 0.000543 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003014 T
+    At 0.42 mm: 0.002945 T
+    At 0.84 mm: 0.002758 T
+    At 1.26 mm: 0.002502 T
+    At 1.68 mm: 0.002225 T
+    At 2.10 mm: 0.001957 T
+    At 2.52 mm: 0.001717 T
+    At 2.94 mm: 0.001499 T
+    At 3.36 mm: 0.001308 T
+    At 3.78 mm: 0.001142 T
+
+Simulation 27:
+Configuration:
+  current: 0.7438523618247547
+  n_turns: 30
+  conductor_thickness: 0.0001910543751832128
+  spacing_between_coils: 0.00010782616506703733
+  radius_coil: 0.007402256703269198
+  central_gap_radius: 0.00043313741363640106
+  num_points: 700
+Results:
+  Max Field: 0.005384 T
+  Min Field: 0.000210 T
+  Mean Field: 0.000818 T
+  Median Field: 0.000605 T
+  Standard Deviation: 0.000615 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.005384 T
+    At 0.82 mm: 0.003312 T
+    At 1.64 mm: 0.002258 T
+    At 2.47 mm: 0.001666 T
+    At 3.29 mm: 0.001273 T
+    At 4.11 mm: 0.000993 T
+    At 4.93 mm: 0.000790 T
+    At 5.76 mm: 0.000632 T
+    At 6.58 mm: 0.000511 T
+    At 7.40 mm: 0.000417 T
+
+Simulation 28:
+Configuration:
+  current: 0.9686107875131437
+  n_turns: 39
+  conductor_thickness: 0.00010319201871327366
+  spacing_between_coils: 0.00010195451468587991
+  radius_coil: 0.006781522874398045
+  central_gap_radius: 0.005126285705422078
+  num_points: 700
+Results:
+  Max Field: 0.002826 T
+  Min Field: 0.000800 T
+  Mean Field: 0.001693 T
+  Median Field: 0.001598 T
+  Standard Deviation: 0.000490 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002826 T
+    At 0.75 mm: 0.002785 T
+    At 1.51 mm: 0.002667 T
+    At 2.26 mm: 0.002491 T
+    At 3.01 mm: 0.002281 T
+    At 3.77 mm: 0.002059 T
+    At 4.52 mm: 0.001845 T
+    At 5.27 mm: 0.001637 T
+    At 6.03 mm: 0.001447 T
+    At 6.78 mm: 0.001276 T
+
+Simulation 29:
+Configuration:
+  current: 0.2518182758035175
+  n_turns: 28
+  conductor_thickness: 0.00024028713351152082
+  spacing_between_coils: 0.00017330185932869953
+  radius_coil: 0.0013885201761019202
+  central_gap_radius: 0.0011281758308878814
+  num_points: 700
+Results:
+  Max Field: 0.000995 T
+  Min Field: 0.000587 T
+  Mean Field: 0.000782 T
+  Median Field: 0.000767 T
+  Standard Deviation: 0.000096 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000995 T
+    At 0.15 mm: 0.000987 T
+    At 0.31 mm: 0.000966 T
+    At 0.46 mm: 0.000934 T
+    At 0.62 mm: 0.000896 T
+    At 0.77 mm: 0.000855 T
+    At 0.93 mm: 0.000815 T
+    At 1.08 mm: 0.000775 T
+    At 1.23 mm: 0.000737 T
+    At 1.39 mm: 0.000701 T
+
+Simulation 30:
+Configuration:
+  current: 0.8989267338536919
+  n_turns: 21
+  conductor_thickness: 0.00020732768122781254
+  spacing_between_coils: 0.00018769169787086326
+  radius_coil: 0.0060730941988652466
+  central_gap_radius: 0.0026978490940816804
+  num_points: 700
+Results:
+  Max Field: 0.002090 T
+  Min Field: 0.000374 T
+  Mean Field: 0.000957 T
+  Median Field: 0.000845 T
+  Standard Deviation: 0.000392 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002090 T
+    At 0.67 mm: 0.002021 T
+    At 1.35 mm: 0.001843 T
+    At 2.02 mm: 0.001618 T
+    At 2.70 mm: 0.001395 T
+    At 3.37 mm: 0.001192 T
+    At 4.05 mm: 0.001021 T
+    At 4.72 mm: 0.000872 T
+    At 5.40 mm: 0.000746 T
+    At 6.07 mm: 0.000640 T
+
+Simulation 31:
+Configuration:
+  current: 0.8445557470469193
+  n_turns: 37
+  conductor_thickness: 0.00019412273607595802
+  spacing_between_coils: 0.0001716843293450936
+  radius_coil: 0.003491376701810839
+  central_gap_radius: 0.001441374840074962
+  num_points: 700
+Results:
+  Max Field: 0.003570 T
+  Min Field: 0.001253 T
+  Mean Field: 0.002104 T
+  Median Field: 0.001976 T
+  Standard Deviation: 0.000514 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003570 T
+    At 0.39 mm: 0.003476 T
+    At 0.78 mm: 0.003241 T
+    At 1.16 mm: 0.002955 T
+    At 1.55 mm: 0.002676 T
+    At 1.94 mm: 0.002424 T
+    At 2.33 mm: 0.002207 T
+    At 2.72 mm: 0.002012 T
+    At 3.10 mm: 0.001840 T
+    At 3.49 mm: 0.001688 T
+
+Simulation 32:
+Configuration:
+  current: 0.850188505730844
+  n_turns: 20
+  conductor_thickness: 0.00019298217311896804
+  spacing_between_coils: 0.00017277929466958107
+  radius_coil: 0.0058097355131788275
+  central_gap_radius: 0.00258377719907087
+  num_points: 700
+Results:
+  Max Field: 0.002040 T
+  Min Field: 0.000341 T
+  Mean Field: 0.000909 T
+  Median Field: 0.000796 T
+  Standard Deviation: 0.000388 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002040 T
+    At 0.65 mm: 0.001971 T
+    At 1.29 mm: 0.001792 T
+    At 1.94 mm: 0.001566 T
+    At 2.58 mm: 0.001342 T
+    At 3.23 mm: 0.001140 T
+    At 3.87 mm: 0.000970 T
+    At 4.52 mm: 0.000823 T
+    At 5.16 mm: 0.000699 T
+    At 5.81 mm: 0.000596 T
+
+Simulation 33:
+Configuration:
+  current: 0.8670551263446722
+  n_turns: 37
+  conductor_thickness: 0.00014073460581679777
+  spacing_between_coils: 0.00013690578138234906
+  radius_coil: 0.009282799853954169
+  central_gap_radius: 0.0009151735780759281
+  num_points: 700
+Results:
+  Max Field: 0.005200 T
+  Min Field: 0.000237 T
+  Mean Field: 0.000959 T
+  Median Field: 0.000703 T
+  Standard Deviation: 0.000725 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.005200 T
+    At 1.03 mm: 0.003895 T
+    At 2.06 mm: 0.002715 T
+    At 3.09 mm: 0.001996 T
+    At 4.13 mm: 0.001514 T
+    At 5.16 mm: 0.001172 T
+    At 6.19 mm: 0.000925 T
+    At 7.22 mm: 0.000735 T
+    At 8.25 mm: 0.000590 T
+    At 9.28 mm: 0.000479 T
+
+Simulation 34:
+Configuration:
+  current: 0.3763125491845585
+  n_turns: 39
+  conductor_thickness: 0.00013591739624004904
+  spacing_between_coils: 0.00011334435292199357
+  radius_coil: 0.007363301287073384
+  central_gap_radius: 0.0034571293513571575
+  num_points: 700
+Results:
+  Max Field: 0.001295 T
+  Min Field: 0.000245 T
+  Mean Field: 0.000616 T
+  Median Field: 0.000549 T
+  Standard Deviation: 0.000243 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001295 T
+    At 0.82 mm: 0.001257 T
+    At 1.64 mm: 0.001157 T
+    At 2.45 mm: 0.001027 T
+    At 3.27 mm: 0.000892 T
+    At 4.09 mm: 0.000768 T
+    At 4.91 mm: 0.000661 T
+    At 5.73 mm: 0.000566 T
+    At 6.55 mm: 0.000486 T
+    At 7.36 mm: 0.000417 T
+
+Simulation 35:
+Configuration:
+  current: 0.2174048603338839
+  n_turns: 36
+  conductor_thickness: 0.00012648673531279083
+  spacing_between_coils: 0.00010757923839399307
+  radius_coil: 0.006910120247750743
+  central_gap_radius: 0.006315626577783449
+  num_points: 700
+Results:
+  Max Field: 0.000501 T
+  Min Field: 0.000175 T
+  Mean Field: 0.000331 T
+  Median Field: 0.000319 T
+  Standard Deviation: 0.000079 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000501 T
+    At 0.77 mm: 0.000496 T
+    At 1.54 mm: 0.000480 T
+    At 2.30 mm: 0.000456 T
+    At 3.07 mm: 0.000426 T
+    At 3.84 mm: 0.000393 T
+    At 4.61 mm: 0.000359 T
+    At 5.37 mm: 0.000326 T
+    At 6.14 mm: 0.000293 T
+    At 6.91 mm: 0.000263 T
+
+Simulation 36:
+Configuration:
+  current: 0.560973732823489
+  n_turns: 38
+  conductor_thickness: 0.0002081502865382785
+  spacing_between_coils: 0.0001667407921945319
+  radius_coil: 0.007116207585881875
+  central_gap_radius: 0.004055274791293772
+  num_points: 700
+Results:
+  Max Field: 0.001451 T
+  Min Field: 0.000432 T
+  Mean Field: 0.000850 T
+  Median Field: 0.000797 T
+  Standard Deviation: 0.000240 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001451 T
+    At 0.79 mm: 0.001424 T
+    At 1.58 mm: 0.001350 T
+    At 2.37 mm: 0.001247 T
+    At 3.16 mm: 0.001132 T
+    At 3.95 mm: 0.001018 T
+    At 4.74 mm: 0.000913 T
+    At 5.53 mm: 0.000815 T
+    At 6.33 mm: 0.000728 T
+    At 7.12 mm: 0.000650 T
+
+Simulation 37:
+Configuration:
+  current: 0.27168948823044065
+  n_turns: 37
+  conductor_thickness: 0.00017021082967564138
+  spacing_between_coils: 9.104979564572033e-05
+  radius_coil: 0.009074192454682162
+  central_gap_radius: 0.001186623795537451
+  num_points: 700
+Results:
+  Max Field: 0.001513 T
+  Min Field: 0.000078 T
+  Mean Field: 0.000314 T
+  Median Field: 0.000231 T
+  Standard Deviation: 0.000231 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001513 T
+    At 1.01 mm: 0.001227 T
+    At 2.02 mm: 0.000885 T
+    At 3.02 mm: 0.000655 T
+    At 4.03 mm: 0.000498 T
+    At 5.04 mm: 0.000385 T
+    At 6.05 mm: 0.000304 T
+    At 7.06 mm: 0.000242 T
+    At 8.07 mm: 0.000194 T
+    At 9.07 mm: 0.000157 T
+
+Simulation 38:
+Configuration:
+  current: 0.8348865797705778
+  n_turns: 32
+  conductor_thickness: 0.00014703024707935338
+  spacing_between_coils: 9.632077237502602e-05
+  radius_coil: 0.006453733040803345
+  central_gap_radius: 0.0033130541830107677
+  num_points: 700
+Results:
+  Max Field: 0.002663 T
+  Min Field: 0.000509 T
+  Mean Field: 0.001292 T
+  Median Field: 0.001156 T
+  Standard Deviation: 0.000505 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002663 T
+    At 0.72 mm: 0.002592 T
+    At 1.43 mm: 0.002401 T
+    At 2.15 mm: 0.002144 T
+    At 2.87 mm: 0.001873 T
+    At 3.59 mm: 0.001616 T
+    At 4.30 mm: 0.001386 T
+    At 5.02 mm: 0.001192 T
+    At 5.74 mm: 0.001021 T
+    At 6.45 mm: 0.000876 T
+
+Simulation 39:
+Configuration:
+  current: 0.4467595428282265
+  n_turns: 34
+  conductor_thickness: 0.00014274119265617183
+  spacing_between_coils: 0.00010543197647682061
+  radius_coil: 0.0020976195273813706
+  central_gap_radius: 0.00047680182448791935
+  num_points: 700
+Results:
+  Max Field: 0.003616 T
+  Min Field: 0.000971 T
+  Mean Field: 0.001698 T
+  Median Field: 0.001555 T
+  Standard Deviation: 0.000500 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003616 T
+    At 0.23 mm: 0.003345 T
+    At 0.47 mm: 0.002876 T
+    At 0.70 mm: 0.002485 T
+    At 0.93 mm: 0.002183 T
+    At 1.17 mm: 0.001943 T
+    At 1.40 mm: 0.001746 T
+    At 1.63 mm: 0.001585 T
+    At 1.86 mm: 0.001442 T
+    At 2.10 mm: 0.001319 T
+
+Simulation 40:
+Configuration:
+  current: 0.8946750809241802
+  n_turns: 27
+  conductor_thickness: 0.0002363091515062006
+  spacing_between_coils: 0.0001999219530468927
+  radius_coil: 0.009968865284732422
+  central_gap_radius: 0.0014820439874203735
+  num_points: 700
+Results:
+  Max Field: 0.003001 T
+  Min Field: 0.000191 T
+  Mean Field: 0.000698 T
+  Median Field: 0.000533 T
+  Standard Deviation: 0.000471 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003001 T
+    At 1.11 mm: 0.002505 T
+    At 2.22 mm: 0.001858 T
+    At 3.32 mm: 0.001406 T
+    At 4.43 mm: 0.001090 T
+    At 5.54 mm: 0.000859 T
+    At 6.65 mm: 0.000690 T
+    At 7.75 mm: 0.000556 T
+    At 8.86 mm: 0.000453 T
+    At 9.97 mm: 0.000372 T
+
+Simulation 41:
+Configuration:
+  current: 0.8130595872425834
+  n_turns: 31
+  conductor_thickness: 0.00023822623549289468
+  spacing_between_coils: 0.00018539239329616936
+  radius_coil: 0.007020434004886781
+  central_gap_radius: 0.0008400011316003535
+  num_points: 700
+Results:
+  Max Field: 0.003701 T
+  Min Field: 0.000384 T
+  Mean Field: 0.001014 T
+  Median Field: 0.000848 T
+  Standard Deviation: 0.000520 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003701 T
+    At 0.78 mm: 0.002974 T
+    At 1.56 mm: 0.002248 T
+    At 2.34 mm: 0.001786 T
+    At 3.12 mm: 0.001461 T
+    At 3.90 mm: 0.001216 T
+    At 4.68 mm: 0.001030 T
+    At 5.46 mm: 0.000875 T
+    At 6.24 mm: 0.000749 T
+    At 7.02 mm: 0.000645 T
+
+Simulation 42:
+Configuration:
+  current: 0.6328313886299363
+  n_turns: 35
+  conductor_thickness: 0.00013168218814448365
+  spacing_between_coils: 9.243687731552319e-05
+  radius_coil: 0.002754908808971665
+  central_gap_radius: 0.00048763063435234677
+  num_points: 700
+Results:
+  Max Field: 0.005450 T
+  Min Field: 0.001043 T
+  Mean Field: 0.002116 T
+  Median Field: 0.001882 T
+  Standard Deviation: 0.000786 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.005450 T
+    At 0.31 mm: 0.004847 T
+    At 0.61 mm: 0.003977 T
+    At 0.92 mm: 0.003328 T
+    At 1.22 mm: 0.002847 T
+    At 1.53 mm: 0.002473 T
+    At 1.84 mm: 0.002178 T
+    At 2.14 mm: 0.001927 T
+    At 2.45 mm: 0.001715 T
+    At 2.75 mm: 0.001534 T
+
+Simulation 43:
+Configuration:
+  current: 0.2952499086285719
+  n_turns: 36
+  conductor_thickness: 0.00019874631307826353
+  spacing_between_coils: 0.00016259365288317392
+  radius_coil: 0.008317563041747522
+  central_gap_radius: 0.004978607763149631
+  num_points: 700
+Results:
+  Max Field: 0.000673 T
+  Min Field: 0.000179 T
+  Mean Field: 0.000381 T
+  Median Field: 0.000354 T
+  Standard Deviation: 0.000117 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000673 T
+    At 0.92 mm: 0.000660 T
+    At 1.85 mm: 0.000625 T
+    At 2.77 mm: 0.000575 T
+    At 3.70 mm: 0.000519 T
+    At 4.62 mm: 0.000463 T
+    At 5.55 mm: 0.000410 T
+    At 6.47 mm: 0.000363 T
+    At 7.39 mm: 0.000320 T
+    At 8.32 mm: 0.000282 T
+
+Simulation 44:
+Configuration:
+  current: 0.939667071121639
+  n_turns: 22
+  conductor_thickness: 0.00012110244135357513
+  spacing_between_coils: 0.00010251567679706615
+  radius_coil: 0.005030682913247136
+  central_gap_radius: 0.004762425503771877
+  num_points: 700
+Results:
+  Max Field: 0.001905 T
+  Min Field: 0.000623 T
+  Mean Field: 0.001233 T
+  Median Field: 0.001184 T
+  Standard Deviation: 0.000311 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001905 T
+    At 0.56 mm: 0.001884 T
+    At 1.12 mm: 0.001822 T
+    At 1.68 mm: 0.001726 T
+    At 2.24 mm: 0.001608 T
+    At 2.79 mm: 0.001476 T
+    At 3.35 mm: 0.001344 T
+    At 3.91 mm: 0.001210 T
+    At 4.47 mm: 0.001083 T
+    At 5.03 mm: 0.000966 T
+
+Simulation 45:
+Configuration:
+  current: 0.8086085232825433
+  n_turns: 31
+  conductor_thickness: 0.0002275070631166725
+  spacing_between_coils: 0.0001490524175661223
+  radius_coil: 0.003928078737950068
+  central_gap_radius: 0.0025651268762256485
+  num_points: 700
+Results:
+  Max Field: 0.002396 T
+  Min Field: 0.000952 T
+  Mean Field: 0.001593 T
+  Median Field: 0.001529 T
+  Standard Deviation: 0.000341 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002396 T
+    At 0.44 mm: 0.002364 T
+    At 0.87 mm: 0.002275 T
+    At 1.31 mm: 0.002146 T
+    At 1.75 mm: 0.001997 T
+    At 2.18 mm: 0.001843 T
+    At 2.62 mm: 0.001697 T
+    At 3.06 mm: 0.001556 T
+    At 3.49 mm: 0.001426 T
+    At 3.93 mm: 0.001306 T
+
+Simulation 46:
+Configuration:
+  current: 0.42798824906540844
+  n_turns: 30
+  conductor_thickness: 0.00010886859147294362
+  spacing_between_coils: 8.984229488682199e-05
+  radius_coil: 0.003537567546595153
+  central_gap_radius: 0.0023004993505590554
+  num_points: 700
+Results:
+  Max Field: 0.001773 T
+  Min Field: 0.000526 T
+  Mean Field: 0.001058 T
+  Median Field: 0.000996 T
+  Standard Deviation: 0.000297 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001773 T
+    At 0.39 mm: 0.001744 T
+    At 0.79 mm: 0.001663 T
+    At 1.18 mm: 0.001546 T
+    At 1.57 mm: 0.001411 T
+    At 1.97 mm: 0.001273 T
+    At 2.36 mm: 0.001139 T
+    At 2.75 mm: 0.001019 T
+    At 3.14 mm: 0.000907 T
+    At 3.54 mm: 0.000807 T
+
+Simulation 47:
+Configuration:
+  current: 0.6898544539482772
+  n_turns: 21
+  conductor_thickness: 0.00010932727685495037
+  spacing_between_coils: 8.991662134586531e-05
+  radius_coil: 0.007285734238884907
+  central_gap_radius: 0.0012371002132574417
+  num_points: 700
+Results:
+  Max Field: 0.003354 T
+  Min Field: 0.000080 T
+  Mean Field: 0.000516 T
+  Median Field: 0.000309 T
+  Standard Deviation: 0.000533 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003354 T
+    At 0.81 mm: 0.002765 T
+    At 1.62 mm: 0.001894 T
+    At 2.43 mm: 0.001279 T
+    At 3.24 mm: 0.000879 T
+    At 4.05 mm: 0.000617 T
+    At 4.86 mm: 0.000447 T
+    At 5.67 mm: 0.000328 T
+    At 6.48 mm: 0.000246 T
+    At 7.29 mm: 0.000188 T
+
+Simulation 48:
+Configuration:
+  current: 0.35847199321612655
+  n_turns: 27
+  conductor_thickness: 0.00018209345845399306
+  spacing_between_coils: 0.00010851931534920326
+  radius_coil: 0.0012270708249395687
+  central_gap_radius: 0.001020887679387464
+  num_points: 700
+Results:
+  Max Field: 0.001778 T
+  Min Field: 0.001010 T
+  Mean Field: 0.001384 T
+  Median Field: 0.001357 T
+  Standard Deviation: 0.000181 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001778 T
+    At 0.14 mm: 0.001765 T
+    At 0.27 mm: 0.001727 T
+    At 0.41 mm: 0.001670 T
+    At 0.55 mm: 0.001600 T
+    At 0.68 mm: 0.001524 T
+    At 0.82 mm: 0.001448 T
+    At 0.95 mm: 0.001372 T
+    At 1.09 mm: 0.001299 T
+    At 1.23 mm: 0.001230 T
+
+Simulation 49:
+Configuration:
+  current: 0.5946042047671267
+  n_turns: 21
+  conductor_thickness: 0.00016796799715980496
+  spacing_between_coils: 0.00011478074581791591
+  radius_coil: 0.0023267559717234706
+  central_gap_radius: 0.0005140728518640229
+  num_points: 700
+Results:
+  Max Field: 0.003709 T
+  Min Field: 0.000686 T
+  Mean Field: 0.001458 T
+  Median Field: 0.001288 T
+  Standard Deviation: 0.000564 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003709 T
+    At 0.26 mm: 0.003371 T
+    At 0.52 mm: 0.002803 T
+    At 0.78 mm: 0.002343 T
+    At 1.03 mm: 0.001993 T
+    At 1.29 mm: 0.001719 T
+    At 1.55 mm: 0.001499 T
+    At 1.81 mm: 0.001321 T
+    At 2.07 mm: 0.001167 T
+    At 2.33 mm: 0.001036 T
+
+Simulation 50:
+Configuration:
+  current: 0.5323985031329076
+  n_turns: 26
+  conductor_thickness: 0.0002137372849388513
+  spacing_between_coils: 0.0002008985407585405
+  radius_coil: 0.008445005835979088
+  central_gap_radius: 0.007544952625978239
+  num_points: 700
+Results:
+  Max Field: 0.000729 T
+  Min Field: 0.000251 T
+  Mean Field: 0.000479 T
+  Median Field: 0.000461 T
+  Standard Deviation: 0.000115 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000729 T
+    At 0.94 mm: 0.000721 T
+    At 1.88 mm: 0.000698 T
+    At 2.82 mm: 0.000662 T
+    At 3.75 mm: 0.000618 T
+    At 4.69 mm: 0.000569 T
+    At 5.63 mm: 0.000520 T
+    At 6.57 mm: 0.000470 T
+    At 7.51 mm: 0.000423 T
+    At 8.45 mm: 0.000380 T
+
+Simulation 51:
+Configuration:
+  current: 0.457389282855316
+  n_turns: 27
+  conductor_thickness: 0.00016155044597938748
+  spacing_between_coils: 0.0001419779579297122
+  radius_coil: 0.006437410747350243
+  central_gap_radius: 0.004752796770130045
+  num_points: 700
+Results:
+  Max Field: 0.000968 T
+  Min Field: 0.000276 T
+  Mean Field: 0.000579 T
+  Median Field: 0.000546 T
+  Standard Deviation: 0.000167 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000968 T
+    At 0.72 mm: 0.000954 T
+    At 1.43 mm: 0.000913 T
+    At 2.15 mm: 0.000852 T
+    At 2.86 mm: 0.000779 T
+    At 3.58 mm: 0.000703 T
+    At 4.29 mm: 0.000628 T
+    At 5.01 mm: 0.000559 T
+    At 5.72 mm: 0.000495 T
+    At 6.44 mm: 0.000437 T
+
+Simulation 52:
+Configuration:
+  current: 0.7391776298994674
+  n_turns: 37
+  conductor_thickness: 0.00014629159408867956
+  spacing_between_coils: 0.00011870978471228906
+  radius_coil: 0.006476860336540451
+  central_gap_radius: 0.0018471714716569582
+  num_points: 700
+Results:
+  Max Field: 0.003337 T
+  Min Field: 0.000469 T
+  Mean Field: 0.001270 T
+  Median Field: 0.001082 T
+  Standard Deviation: 0.000598 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003337 T
+    At 0.72 mm: 0.003137 T
+    At 1.44 mm: 0.002701 T
+    At 2.16 mm: 0.002256 T
+    At 2.88 mm: 0.001877 T
+    At 3.60 mm: 0.001568 T
+    At 4.32 mm: 0.001317 T
+    At 5.04 mm: 0.001118 T
+    At 5.76 mm: 0.000950 T
+    At 6.48 mm: 0.000811 T
+
+Simulation 53:
+Configuration:
+  current: 0.8822509634391047
+  n_turns: 33
+  conductor_thickness: 0.00011361267271313942
+  spacing_between_coils: 0.00010185404977353774
+  radius_coil: 0.002408849730609987
+  central_gap_radius: 0.00029376424417081336
+  num_points: 700
+Results:
+  Max Field: 0.009317 T
+  Min Field: 0.001542 T
+  Mean Field: 0.003127 T
+  Median Field: 0.002767 T
+  Standard Deviation: 0.001203 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.009317 T
+    At 0.27 mm: 0.007562 T
+    At 0.54 mm: 0.005924 T
+    At 0.80 mm: 0.004904 T
+    At 1.07 mm: 0.004183 T
+    At 1.34 mm: 0.003632 T
+    At 1.61 mm: 0.003200 T
+    At 1.87 mm: 0.002833 T
+    At 2.14 mm: 0.002523 T
+    At 2.41 mm: 0.002259 T
+
+Simulation 54:
+Configuration:
+  current: 0.44099583264411824
+  n_turns: 22
+  conductor_thickness: 0.00021859903930073767
+  spacing_between_coils: 0.00014197999476761906
+  radius_coil: 0.008258981309885017
+  central_gap_radius: 0.005578993905232985
+  num_points: 700
+Results:
+  Max Field: 0.000695 T
+  Min Field: 0.000152 T
+  Mean Field: 0.000371 T
+  Median Field: 0.000340 T
+  Standard Deviation: 0.000131 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000695 T
+    At 0.92 mm: 0.000681 T
+    At 1.84 mm: 0.000643 T
+    At 2.75 mm: 0.000589 T
+    At 3.67 mm: 0.000527 T
+    At 4.59 mm: 0.000463 T
+    At 5.51 mm: 0.000405 T
+    At 6.42 mm: 0.000350 T
+    At 7.34 mm: 0.000302 T
+    At 8.26 mm: 0.000261 T
+
+Simulation 55:
+Configuration:
+  current: 0.38244534931761853
+  n_turns: 32
+  conductor_thickness: 9.910389548114024e-05
+  spacing_between_coils: 9.53794720282598e-05
+  radius_coil: 0.0007002777314058936
+  central_gap_radius: 0.00012277396581847734
+  num_points: 700
+Results:
+  Max Field: 0.006056 T
+  Min Field: 0.001920 T
+  Mean Field: 0.002790 T
+  Median Field: 0.002610 T
+  Standard Deviation: 0.000633 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.006056 T
+    At 0.08 mm: 0.005195 T
+    At 0.16 mm: 0.004243 T
+    At 0.23 mm: 0.003698 T
+    At 0.31 mm: 0.003332 T
+    At 0.39 mm: 0.003055 T
+    At 0.47 mm: 0.002835 T
+    At 0.54 mm: 0.002645 T
+    At 0.62 mm: 0.002481 T
+    At 0.70 mm: 0.002337 T
+
+Simulation 56:
+Configuration:
+  current: 0.9758964053985212
+  n_turns: 34
+  conductor_thickness: 0.0001863168850201872
+  spacing_between_coils: 0.00018246797834608867
+  radius_coil: 0.006614708484247046
+  central_gap_radius: 0.0014306458088299795
+  num_points: 700
+Results:
+  Max Field: 0.003990 T
+  Min Field: 0.000585 T
+  Mean Field: 0.001450 T
+  Median Field: 0.001245 T
+  Standard Deviation: 0.000655 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003990 T
+    At 0.73 mm: 0.003645 T
+    At 1.47 mm: 0.003025 T
+    At 2.20 mm: 0.002492 T
+    At 2.94 mm: 0.002077 T
+    At 3.67 mm: 0.001751 T
+    At 4.41 mm: 0.001490 T
+    At 5.14 mm: 0.001283 T
+    At 5.88 mm: 0.001106 T
+    At 6.61 mm: 0.000959 T
+
+Simulation 57:
+Configuration:
+  current: 0.10805273009222027
+  n_turns: 22
+  conductor_thickness: 0.00014391010467239144
+  spacing_between_coils: 0.00013019256025801094
+  radius_coil: 0.0032394489934647113
+  central_gap_radius: 0.0006804758480965761
+  num_points: 700
+Results:
+  Max Field: 0.000615 T
+  Min Field: 0.000084 T
+  Mean Field: 0.000212 T
+  Median Field: 0.000180 T
+  Standard Deviation: 0.000099 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000615 T
+    At 0.36 mm: 0.000554 T
+    At 0.72 mm: 0.000452 T
+    At 1.08 mm: 0.000368 T
+    At 1.44 mm: 0.000305 T
+    At 1.80 mm: 0.000256 T
+    At 2.16 mm: 0.000218 T
+    At 2.52 mm: 0.000186 T
+    At 2.88 mm: 0.000160 T
+    At 3.24 mm: 0.000138 T
+
+Simulation 58:
+Configuration:
+  current: 0.1146627699849949
+  n_turns: 29
+  conductor_thickness: 0.00017144758244999928
+  spacing_between_coils: 0.00015896137706111584
+  radius_coil: 0.009053970622821693
+  central_gap_radius: 0.0025398795177049263
+  num_points: 700
+Results:
+  Max Field: 0.000352 T
+  Min Field: 0.000033 T
+  Mean Field: 0.000112 T
+  Median Field: 0.000089 T
+  Standard Deviation: 0.000066 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000352 T
+    At 1.01 mm: 0.000327 T
+    At 2.01 mm: 0.000274 T
+    At 3.02 mm: 0.000221 T
+    At 4.02 mm: 0.000176 T
+    At 5.03 mm: 0.000141 T
+    At 6.04 mm: 0.000115 T
+    At 7.04 mm: 0.000093 T
+    At 8.05 mm: 0.000076 T
+    At 9.05 mm: 0.000063 T
+
+Simulation 59:
+Configuration:
+  current: 0.12646807657252515
+  n_turns: 24
+  conductor_thickness: 0.00018813057622132115
+  spacing_between_coils: 0.00014990894514275874
+  radius_coil: 0.004416979568637801
+  central_gap_radius: 0.004024913978465699
+  num_points: 700
+Results:
+  Max Field: 0.000266 T
+  Min Field: 0.000108 T
+  Mean Field: 0.000186 T
+  Median Field: 0.000181 T
+  Standard Deviation: 0.000038 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000266 T
+    At 0.49 mm: 0.000264 T
+    At 0.98 mm: 0.000256 T
+    At 1.47 mm: 0.000245 T
+    At 1.96 mm: 0.000231 T
+    At 2.45 mm: 0.000216 T
+    At 2.94 mm: 0.000200 T
+    At 3.44 mm: 0.000184 T
+    At 3.93 mm: 0.000168 T
+    At 4.42 mm: 0.000154 T
+
+Simulation 60:
+Configuration:
+  current: 0.509304845790367
+  n_turns: 38
+  conductor_thickness: 0.00024270067165364052
+  spacing_between_coils: 0.00012299770574842592
+  radius_coil: 0.0032128179856846023
+  central_gap_radius: 0.001573992663299357
+  num_points: 700
+Results:
+  Max Field: 0.002095 T
+  Min Field: 0.000841 T
+  Mean Field: 0.001340 T
+  Median Field: 0.001275 T
+  Standard Deviation: 0.000286 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002095 T
+    At 0.36 mm: 0.002055 T
+    At 0.71 mm: 0.001950 T
+    At 1.07 mm: 0.001811 T
+    At 1.43 mm: 0.001667 T
+    At 1.78 mm: 0.001530 T
+    At 2.14 mm: 0.001408 T
+    At 2.50 mm: 0.001296 T
+    At 2.86 mm: 0.001195 T
+    At 3.21 mm: 0.001105 T
+
+Simulation 61:
+Configuration:
+  current: 0.3705285270697256
+  n_turns: 37
+  conductor_thickness: 0.00015142056879039397
+  spacing_between_coils: 0.00010088464093310643
+  radius_coil: 0.0060392251129304415
+  central_gap_radius: 0.0011080563607684954
+  num_points: 700
+Results:
+  Max Field: 0.002168 T
+  Min Field: 0.000231 T
+  Mean Field: 0.000666 T
+  Median Field: 0.000549 T
+  Standard Deviation: 0.000355 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002168 T
+    At 0.67 mm: 0.001923 T
+    At 1.34 mm: 0.001531 T
+    At 2.01 mm: 0.001221 T
+    At 2.68 mm: 0.000990 T
+    At 3.36 mm: 0.000814 T
+    At 4.03 mm: 0.000679 T
+    At 4.70 mm: 0.000569 T
+    At 5.37 mm: 0.000479 T
+    At 6.04 mm: 0.000407 T
+
+Simulation 62:
+Configuration:
+  current: 0.5317837546010471
+  n_turns: 22
+  conductor_thickness: 0.00017109703063239998
+  spacing_between_coils: 0.00011802742477183187
+  radius_coil: 0.003722926939350549
+  central_gap_radius: 0.0029263521424793544
+  num_points: 700
+Results:
+  Max Field: 0.001375 T
+  Min Field: 0.000478 T
+  Mean Field: 0.000891 T
+  Median Field: 0.000854 T
+  Standard Deviation: 0.000215 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001375 T
+    At 0.41 mm: 0.001358 T
+    At 0.83 mm: 0.001309 T
+    At 1.24 mm: 0.001237 T
+    At 1.65 mm: 0.001149 T
+    At 2.07 mm: 0.001055 T
+    At 2.48 mm: 0.000960 T
+    At 2.90 mm: 0.000871 T
+    At 3.31 mm: 0.000786 T
+    At 3.72 mm: 0.000708 T
+
+Simulation 63:
+Configuration:
+  current: 0.9119419661678196
+  n_turns: 25
+  conductor_thickness: 0.00021861100439747415
+  spacing_between_coils: 0.00021801237797479698
+  radius_coil: 0.0068912927914092665
+  central_gap_radius: 0.0006392380367007221
+  num_points: 700
+Results:
+  Max Field: 0.004270 T
+  Min Field: 0.000307 T
+  Mean Field: 0.000931 T
+  Median Field: 0.000748 T
+  Standard Deviation: 0.000556 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.004270 T
+    At 0.77 mm: 0.003100 T
+    At 1.53 mm: 0.002238 T
+    At 2.30 mm: 0.001730 T
+    At 3.06 mm: 0.001381 T
+    At 3.83 mm: 0.001125 T
+    At 4.59 mm: 0.000932 T
+    At 5.36 mm: 0.000775 T
+    At 6.13 mm: 0.000650 T
+    At 6.89 mm: 0.000549 T
+
+Simulation 64:
+Configuration:
+  current: 0.23331877941020487
+  n_turns: 21
+  conductor_thickness: 0.00023658788594710056
+  spacing_between_coils: 0.00010696455737498119
+  radius_coil: 0.0018068053934159303
+  central_gap_radius: 0.001130092353893017
+  num_points: 700
+Results:
+  Max Field: 0.000912 T
+  Min Field: 0.000388 T
+  Mean Field: 0.000614 T
+  Median Field: 0.000589 T
+  Standard Deviation: 0.000122 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000912 T
+    At 0.20 mm: 0.000900 T
+    At 0.40 mm: 0.000864 T
+    At 0.60 mm: 0.000814 T
+    At 0.80 mm: 0.000758 T
+    At 1.00 mm: 0.000701 T
+    At 1.20 mm: 0.000649 T
+    At 1.41 mm: 0.000599 T
+    At 1.61 mm: 0.000553 T
+    At 1.81 mm: 0.000512 T
+
+Simulation 65:
+Configuration:
+  current: 0.8067960873227343
+  n_turns: 30
+  conductor_thickness: 0.0001892490140292803
+  spacing_between_coils: 0.00015009170499485002
+  radius_coil: 0.004084519958715307
+  central_gap_radius: 0.002888331433116021
+  num_points: 700
+Results:
+  Max Field: 0.002325 T
+  Min Field: 0.000899 T
+  Mean Field: 0.001548 T
+  Median Field: 0.001487 T
+  Standard Deviation: 0.000339 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002325 T
+    At 0.45 mm: 0.002296 T
+    At 0.91 mm: 0.002214 T
+    At 1.36 mm: 0.002094 T
+    At 1.82 mm: 0.001952 T
+    At 2.27 mm: 0.001801 T
+    At 2.72 mm: 0.001653 T
+    At 3.18 mm: 0.001514 T
+    At 3.63 mm: 0.001382 T
+    At 4.08 mm: 0.001261 T
+
+Simulation 66:
+Configuration:
+  current: 0.2913517936968985
+  n_turns: 25
+  conductor_thickness: 0.00014425250848683804
+  spacing_between_coils: 0.00010770461889526963
+  radius_coil: 0.009937994728328445
+  central_gap_radius: 0.007067481887824633
+  num_points: 700
+Results:
+  Max Field: 0.000469 T
+  Min Field: 0.000088 T
+  Mean Field: 0.000237 T
+  Median Field: 0.000214 T
+  Standard Deviation: 0.000093 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000469 T
+    At 1.10 mm: 0.000460 T
+    At 2.21 mm: 0.000432 T
+    At 3.31 mm: 0.000393 T
+    At 4.42 mm: 0.000348 T
+    At 5.52 mm: 0.000302 T
+    At 6.63 mm: 0.000260 T
+    At 7.73 mm: 0.000222 T
+    At 8.83 mm: 0.000188 T
+    At 9.94 mm: 0.000159 T
+
+Simulation 67:
+Configuration:
+  current: 0.7974417024531905
+  n_turns: 20
+  conductor_thickness: 0.00016291723519659736
+  spacing_between_coils: 9.456929679748279e-05
+  radius_coil: 0.003053776258024765
+  central_gap_radius: 0.0011035805461036955
+  num_points: 700
+Results:
+  Max Field: 0.003571 T
+  Min Field: 0.000638 T
+  Mean Field: 0.001558 T
+  Median Field: 0.001369 T
+  Standard Deviation: 0.000639 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003571 T
+    At 0.34 mm: 0.003416 T
+    At 0.68 mm: 0.003045 T
+    At 1.02 mm: 0.002625 T
+    At 1.36 mm: 0.002241 T
+    At 1.70 mm: 0.001911 T
+    At 2.04 mm: 0.001636 T
+    At 2.38 mm: 0.001411 T
+    At 2.71 mm: 0.001217 T
+    At 3.05 mm: 0.001054 T
+
+Simulation 68:
+Configuration:
+  current: 0.35768928581109427
+  n_turns: 36
+  conductor_thickness: 9.756457244292954e-05
+  spacing_between_coils: 9.531254118139761e-05
+  radius_coil: 0.007799793713424568
+  central_gap_radius: 0.0041603485331942235
+  num_points: 700
+Results:
+  Max Field: 0.001161 T
+  Min Field: 0.000185 T
+  Mean Field: 0.000528 T
+  Median Field: 0.000463 T
+  Standard Deviation: 0.000231 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001161 T
+    At 0.87 mm: 0.001128 T
+    At 1.73 mm: 0.001040 T
+    At 2.60 mm: 0.000920 T
+    At 3.47 mm: 0.000793 T
+    At 4.33 mm: 0.000674 T
+    At 5.20 mm: 0.000570 T
+    At 6.07 mm: 0.000479 T
+    At 6.93 mm: 0.000402 T
+    At 7.80 mm: 0.000339 T
+
+Simulation 69:
+Configuration:
+  current: 0.6789092777381474
+  n_turns: 35
+  conductor_thickness: 0.00011160871091824714
+  spacing_between_coils: 0.00010043334241367588
+  radius_coil: 0.008361094679847643
+  central_gap_radius: 0.0024482203662888435
+  num_points: 700
+Results:
+  Max Field: 0.002871 T
+  Min Field: 0.000228 T
+  Mean Field: 0.000868 T
+  Median Field: 0.000674 T
+  Standard Deviation: 0.000549 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002871 T
+    At 0.93 mm: 0.002672 T
+    At 1.86 mm: 0.002231 T
+    At 2.79 mm: 0.001780 T
+    At 3.72 mm: 0.001402 T
+    At 4.65 mm: 0.001105 T
+    At 5.57 mm: 0.000876 T
+    At 6.50 mm: 0.000704 T
+    At 7.43 mm: 0.000567 T
+    At 8.36 mm: 0.000460 T
+
+Simulation 70:
+Configuration:
+  current: 0.1714726424467914
+  n_turns: 40
+  conductor_thickness: 0.00022484269016000727
+  spacing_between_coils: 0.00015245367501741334
+  radius_coil: 0.006095497556173082
+  central_gap_radius: 0.004475708356979395
+  num_points: 700
+Results:
+  Max Field: 0.000431 T
+  Min Field: 0.000172 T
+  Mean Field: 0.000292 T
+  Median Field: 0.000282 T
+  Standard Deviation: 0.000062 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000431 T
+    At 0.68 mm: 0.000426 T
+    At 1.35 mm: 0.000412 T
+    At 2.03 mm: 0.000391 T
+    At 2.71 mm: 0.000366 T
+    At 3.39 mm: 0.000339 T
+    At 4.06 mm: 0.000313 T
+    At 4.74 mm: 0.000287 T
+    At 5.42 mm: 0.000262 T
+    At 6.10 mm: 0.000240 T
+
+Simulation 71:
+Configuration:
+  current: 0.9676821601079274
+  n_turns: 30
+  conductor_thickness: 0.00012045253814255274
+  spacing_between_coils: 9.62402187624839e-05
+  radius_coil: 0.00543680639661157
+  central_gap_radius: 0.002384908499044058
+  num_points: 700
+Results:
+  Max Field: 0.003786 T
+  Min Field: 0.000611 T
+  Mean Field: 0.001667 T
+  Median Field: 0.001454 T
+  Standard Deviation: 0.000727 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003786 T
+    At 0.60 mm: 0.003656 T
+    At 1.21 mm: 0.003321 T
+    At 1.81 mm: 0.002898 T
+    At 2.42 mm: 0.002477 T
+    At 3.02 mm: 0.002097 T
+    At 3.62 mm: 0.001779 T
+    At 4.23 mm: 0.001503 T
+    At 4.83 mm: 0.001273 T
+    At 5.44 mm: 0.001081 T
+
+Simulation 72:
+Configuration:
+  current: 0.6746847551446749
+  n_turns: 40
+  conductor_thickness: 0.0001280596077189538
+  spacing_between_coils: 9.145596951109925e-05
+  radius_coil: 0.0033836938740740615
+  central_gap_radius: 0.0015968862467759942
+  num_points: 700
+Results:
+  Max Field: 0.003730 T
+  Min Field: 0.001142 T
+  Mean Field: 0.002140 T
+  Median Field: 0.001997 T
+  Standard Deviation: 0.000593 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003730 T
+    At 0.38 mm: 0.003644 T
+    At 0.75 mm: 0.003419 T
+    At 1.13 mm: 0.003124 T
+    At 1.50 mm: 0.002818 T
+    At 1.88 mm: 0.002528 T
+    At 2.26 mm: 0.002267 T
+    At 2.63 mm: 0.002040 T
+    At 3.01 mm: 0.001834 T
+    At 3.38 mm: 0.001652 T
+
+Simulation 73:
+Configuration:
+  current: 0.36346467655525827
+  n_turns: 40
+  conductor_thickness: 0.0001567817385031936
+  spacing_between_coils: 0.00012392340514735714
+  radius_coil: 0.0037455893715907518
+  central_gap_radius: 0.0031653841306632157
+  num_points: 700
+Results:
+  Max Field: 0.001261 T
+  Min Field: 0.000594 T
+  Mean Field: 0.000923 T
+  Median Field: 0.000901 T
+  Standard Deviation: 0.000158 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001261 T
+    At 0.42 mm: 0.001250 T
+    At 0.83 mm: 0.001219 T
+    At 1.25 mm: 0.001171 T
+    At 1.66 mm: 0.001113 T
+    At 2.08 mm: 0.001047 T
+    At 2.50 mm: 0.000982 T
+    At 2.91 mm: 0.000915 T
+    At 3.33 mm: 0.000850 T
+    At 3.75 mm: 0.000788 T
+
+Simulation 74:
+Configuration:
+  current: 0.5781544008723009
+  n_turns: 40
+  conductor_thickness: 0.00017516264979061755
+  spacing_between_coils: 0.00012820445930327668
+  radius_coil: 0.00498748548730421
+  central_gap_radius: 0.0028575114271712047
+  num_points: 700
+Results:
+  Max Field: 0.002037 T
+  Min Field: 0.000682 T
+  Mean Field: 0.001249 T
+  Median Field: 0.001181 T
+  Standard Deviation: 0.000318 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002037 T
+    At 0.55 mm: 0.002003 T
+    At 1.11 mm: 0.001907 T
+    At 1.66 mm: 0.001772 T
+    At 2.22 mm: 0.001622 T
+    At 2.77 mm: 0.001473 T
+    At 3.32 mm: 0.001332 T
+    At 3.88 mm: 0.001205 T
+    At 4.43 mm: 0.001088 T
+    At 4.99 mm: 0.000983 T
+
+Simulation 75:
+Configuration:
+  current: 0.10472229900810125
+  n_turns: 22
+  conductor_thickness: 0.00019459391633599248
+  spacing_between_coils: 0.00014351320068306306
+  radius_coil: 0.007666520735669638
+  central_gap_radius: 0.002870774287986483
+  num_points: 700
+Results:
+  Max Field: 0.000257 T
+  Min Field: 0.000029 T
+  Mean Field: 0.000094 T
+  Median Field: 0.000077 T
+  Standard Deviation: 0.000050 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000257 T
+    At 0.85 mm: 0.000245 T
+    At 1.70 mm: 0.000215 T
+    At 2.56 mm: 0.000180 T
+    At 3.41 mm: 0.000147 T
+    At 4.26 mm: 0.000120 T
+    At 5.11 mm: 0.000098 T
+    At 5.96 mm: 0.000081 T
+    At 6.81 mm: 0.000066 T
+    At 7.67 mm: 0.000055 T
+
+Simulation 76:
+Configuration:
+  current: 0.6123312770347115
+  n_turns: 25
+  conductor_thickness: 0.0001517304622599457
+  spacing_between_coils: 9.79587535169375e-05
+  radius_coil: 0.009679131543885857
+  central_gap_radius: 0.0067805045669257985
+  num_points: 700
+Results:
+  Max Field: 0.001019 T
+  Min Field: 0.000189 T
+  Mean Field: 0.000512 T
+  Median Field: 0.000462 T
+  Standard Deviation: 0.000202 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001019 T
+    At 1.08 mm: 0.000998 T
+    At 2.15 mm: 0.000938 T
+    At 3.23 mm: 0.000851 T
+    At 4.30 mm: 0.000752 T
+    At 5.38 mm: 0.000652 T
+    At 6.45 mm: 0.000559 T
+    At 7.53 mm: 0.000477 T
+    At 8.60 mm: 0.000405 T
+    At 9.68 mm: 0.000343 T
+
+Simulation 77:
+Configuration:
+  current: 0.43103196208945205
+  n_turns: 23
+  conductor_thickness: 0.0001605113260811678
+  spacing_between_coils: 0.00011656321637739098
+  radius_coil: 0.008077526874098961
+  central_gap_radius: 0.006858596164364543
+  num_points: 700
+Results:
+  Max Field: 0.000652 T
+  Min Field: 0.000172 T
+  Mean Field: 0.000385 T
+  Median Field: 0.000362 T
+  Standard Deviation: 0.000117 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000652 T
+    At 0.90 mm: 0.000643 T
+    At 1.80 mm: 0.000616 T
+    At 2.69 mm: 0.000575 T
+    At 3.59 mm: 0.000526 T
+    At 4.49 mm: 0.000473 T
+    At 5.39 mm: 0.000422 T
+    At 6.28 mm: 0.000372 T
+    At 7.18 mm: 0.000326 T
+    At 8.08 mm: 0.000285 T
+
+Simulation 78:
+Configuration:
+  current: 0.653511244539317
+  n_turns: 24
+  conductor_thickness: 0.00022892446400004556
+  spacing_between_coils: 0.0001003168576210465
+  radius_coil: 0.009464987317317815
+  central_gap_radius: 0.00451288432180017
+  num_points: 700
+Results:
+  Max Field: 0.001291 T
+  Min Field: 0.000168 T
+  Mean Field: 0.000529 T
+  Median Field: 0.000449 T
+  Standard Deviation: 0.000261 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001291 T
+    At 1.05 mm: 0.001246 T
+    At 2.10 mm: 0.001128 T
+    At 3.15 mm: 0.000975 T
+    At 4.21 mm: 0.000820 T
+    At 5.26 mm: 0.000681 T
+    At 6.31 mm: 0.000562 T
+    At 7.36 mm: 0.000466 T
+    At 8.41 mm: 0.000385 T
+    At 9.46 mm: 0.000320 T
+
+Simulation 79:
+Configuration:
+  current: 0.9626539148998366
+  n_turns: 36
+  conductor_thickness: 0.0001893606398237348
+  spacing_between_coils: 0.00010046169948758134
+  radius_coil: 0.005951661447737098
+  central_gap_radius: 0.0015272902310271268
+  num_points: 700
+Results:
+  Max Field: 0.004474 T
+  Min Field: 0.000677 T
+  Mean Field: 0.001713 T
+  Median Field: 0.001474 T
+  Standard Deviation: 0.000769 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.004474 T
+    At 0.66 mm: 0.004172 T
+    At 1.32 mm: 0.003555 T
+    At 1.98 mm: 0.002964 T
+    At 2.65 mm: 0.002478 T
+    At 3.31 mm: 0.002088 T
+    At 3.97 mm: 0.001772 T
+    At 4.63 mm: 0.001520 T
+    At 5.29 mm: 0.001306 T
+    At 5.95 mm: 0.001127 T
+
+Simulation 80:
+Configuration:
+  current: 0.9195095689563798
+  n_turns: 28
+  conductor_thickness: 0.00019090690776861415
+  spacing_between_coils: 0.00013206823633729782
+  radius_coil: 0.007886674896465376
+  central_gap_radius: 0.0014436680071195818
+  num_points: 700
+Results:
+  Max Field: 0.003727 T
+  Min Field: 0.000265 T
+  Mean Field: 0.000957 T
+  Median Field: 0.000739 T
+  Standard Deviation: 0.000624 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003727 T
+    At 0.88 mm: 0.003256 T
+    At 1.75 mm: 0.002508 T
+    At 2.63 mm: 0.001926 T
+    At 3.51 mm: 0.001501 T
+    At 4.38 mm: 0.001186 T
+    At 5.26 mm: 0.000954 T
+    At 6.13 mm: 0.000770 T
+    At 7.01 mm: 0.000627 T
+    At 7.89 mm: 0.000515 T
+
+Simulation 81:
+Configuration:
+  current: 0.22851214520049543
+  n_turns: 24
+  conductor_thickness: 0.00017329468838407207
+  spacing_between_coils: 0.00013119556192008045
+  radius_coil: 0.008936436234061085
+  central_gap_radius: 0.004920095753525022
+  num_points: 700
+Results:
+  Max Field: 0.000438 T
+  Min Field: 0.000067 T
+  Mean Field: 0.000197 T
+  Median Field: 0.000172 T
+  Standard Deviation: 0.000088 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000438 T
+    At 0.99 mm: 0.000426 T
+    At 1.99 mm: 0.000392 T
+    At 2.98 mm: 0.000347 T
+    At 3.97 mm: 0.000298 T
+    At 4.96 mm: 0.000253 T
+    At 5.96 mm: 0.000213 T
+    At 6.95 mm: 0.000178 T
+    At 7.94 mm: 0.000149 T
+    At 8.94 mm: 0.000125 T
+
+Simulation 82:
+Configuration:
+  current: 0.10659701832539396
+  n_turns: 20
+  conductor_thickness: 0.00018772321459240395
+  spacing_between_coils: 0.00010303476755203903
+  radius_coil: 0.004756251953874224
+  central_gap_radius: 0.0012274934763868992
+  num_points: 700
+Results:
+  Max Field: 0.000426 T
+  Min Field: 0.000042 T
+  Mean Field: 0.000135 T
+  Median Field: 0.000109 T
+  Standard Deviation: 0.000077 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000426 T
+    At 0.53 mm: 0.000392 T
+    At 1.06 mm: 0.000324 T
+    At 1.59 mm: 0.000260 T
+    At 2.11 mm: 0.000209 T
+    At 2.64 mm: 0.000169 T
+    At 3.17 mm: 0.000138 T
+    At 3.70 mm: 0.000114 T
+    At 4.23 mm: 0.000094 T
+    At 4.76 mm: 0.000078 T
+
+Simulation 83:
+Configuration:
+  current: 0.20814556846603322
+  n_turns: 33
+  conductor_thickness: 0.00021483457051934163
+  spacing_between_coils: 0.0001852932025567425
+  radius_coil: 0.0028940311389925475
+  central_gap_radius: 0.0018600918939379435
+  num_points: 700
+Results:
+  Max Field: 0.000716 T
+  Min Field: 0.000333 T
+  Mean Field: 0.000503 T
+  Median Field: 0.000486 T
+  Standard Deviation: 0.000090 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000716 T
+    At 0.32 mm: 0.000707 T
+    At 0.64 mm: 0.000683 T
+    At 0.96 mm: 0.000649 T
+    At 1.29 mm: 0.000609 T
+    At 1.61 mm: 0.000569 T
+    At 1.93 mm: 0.000530 T
+    At 2.25 mm: 0.000493 T
+    At 2.57 mm: 0.000459 T
+    At 2.89 mm: 0.000428 T
+
+Simulation 84:
+Configuration:
+  current: 0.7633766278830361
+  n_turns: 35
+  conductor_thickness: 0.00011072273628755816
+  spacing_between_coils: 9.745863803523508e-05
+  radius_coil: 0.00277079077270743
+  central_gap_radius: 0.0014938328540318566
+  num_points: 700
+Results:
+  Max Field: 0.004217 T
+  Min Field: 0.001407 T
+  Mean Field: 0.002554 T
+  Median Field: 0.002408 T
+  Standard Deviation: 0.000654 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.004217 T
+    At 0.31 mm: 0.004139 T
+    At 0.62 mm: 0.003926 T
+    At 0.92 mm: 0.003634 T
+    At 1.23 mm: 0.003315 T
+    At 1.54 mm: 0.003004 T
+    At 1.85 mm: 0.002721 T
+    At 2.16 mm: 0.002457 T
+    At 2.46 mm: 0.002221 T
+    At 2.77 mm: 0.002010 T
+
+Simulation 85:
+Configuration:
+  current: 0.6200255856989008
+  n_turns: 25
+  conductor_thickness: 0.00012994692645927985
+  spacing_between_coils: 0.00010646578631413542
+  radius_coil: 0.0034221906052516932
+  central_gap_radius: 0.0017143530350573577
+  num_points: 700
+Results:
+  Max Field: 0.002550 T
+  Min Field: 0.000612 T
+  Mean Field: 0.001341 T
+  Median Field: 0.001227 T
+  Standard Deviation: 0.000450 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002550 T
+    At 0.38 mm: 0.002487 T
+    At 0.76 mm: 0.002318 T
+    At 1.14 mm: 0.002093 T
+    At 1.52 mm: 0.001857 T
+    At 1.90 mm: 0.001634 T
+    At 2.28 mm: 0.001432 T
+    At 2.66 mm: 0.001259 T
+    At 3.04 mm: 0.001105 T
+    At 3.42 mm: 0.000970 T
+
+Simulation 86:
+Configuration:
+  current: 0.9311912823376921
+  n_turns: 21
+  conductor_thickness: 0.00016313597354953197
+  spacing_between_coils: 0.0001438942911671475
+  radius_coil: 0.00930917094869584
+  central_gap_radius: 0.006788675884939523
+  num_points: 700
+Results:
+  Max Field: 0.001294 T
+  Min Field: 0.000262 T
+  Mean Field: 0.000677 T
+  Median Field: 0.000617 T
+  Standard Deviation: 0.000251 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001294 T
+    At 1.03 mm: 0.001269 T
+    At 2.07 mm: 0.001198 T
+    At 3.10 mm: 0.001095 T
+    At 4.14 mm: 0.000976 T
+    At 5.17 mm: 0.000854 T
+    At 6.21 mm: 0.000741 T
+    At 7.24 mm: 0.000636 T
+    At 8.27 mm: 0.000544 T
+    At 9.31 mm: 0.000464 T
+
+Simulation 87:
+Configuration:
+  current: 0.19324423705968885
+  n_turns: 38
+  conductor_thickness: 0.000113742004366273
+  spacing_between_coils: 9.781971972596733e-05
+  radius_coil: 0.005979887217872293
+  central_gap_radius: 0.005108209319292931
+  num_points: 700
+Results:
+  Max Field: 0.000550 T
+  Min Field: 0.000187 T
+  Mean Field: 0.000358 T
+  Median Field: 0.000344 T
+  Standard Deviation: 0.000087 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000550 T
+    At 0.66 mm: 0.000544 T
+    At 1.33 mm: 0.000525 T
+    At 1.99 mm: 0.000498 T
+    At 2.66 mm: 0.000463 T
+    At 3.32 mm: 0.000426 T
+    At 3.99 mm: 0.000389 T
+    At 4.65 mm: 0.000351 T
+    At 5.32 mm: 0.000316 T
+    At 5.98 mm: 0.000283 T
+
+Simulation 88:
+Configuration:
+  current: 0.3024927092587829
+  n_turns: 25
+  conductor_thickness: 0.00018511102450492314
+  spacing_between_coils: 0.00010964784669069687
+  radius_coil: 0.004462247429737429
+  central_gap_radius: 0.0024043264730478223
+  num_points: 700
+Results:
+  Max Field: 0.000935 T
+  Min Field: 0.000231 T
+  Mean Field: 0.000504 T
+  Median Field: 0.000464 T
+  Standard Deviation: 0.000165 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000935 T
+    At 0.50 mm: 0.000914 T
+    At 0.99 mm: 0.000857 T
+    At 1.49 mm: 0.000779 T
+    At 1.98 mm: 0.000696 T
+    At 2.48 mm: 0.000615 T
+    At 2.97 mm: 0.000542 T
+    At 3.47 mm: 0.000476 T
+    At 3.97 mm: 0.000418 T
+    At 4.46 mm: 0.000367 T
+
+Simulation 89:
+Configuration:
+  current: 0.4981635352522944
+  n_turns: 29
+  conductor_thickness: 0.0001975676570129426
+  spacing_between_coils: 0.00014221314192961967
+  radius_coil: 0.006173351255724278
+  central_gap_radius: 0.004959125937490553
+  num_points: 700
+Results:
+  Max Field: 0.001029 T
+  Min Field: 0.000357 T
+  Mean Field: 0.000669 T
+  Median Field: 0.000642 T
+  Standard Deviation: 0.000162 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001029 T
+    At 0.69 mm: 0.001017 T
+    At 1.37 mm: 0.000982 T
+    At 2.06 mm: 0.000928 T
+    At 2.74 mm: 0.000863 T
+    At 3.43 mm: 0.000793 T
+    At 4.12 mm: 0.000722 T
+    At 4.80 mm: 0.000655 T
+    At 5.49 mm: 0.000591 T
+    At 6.17 mm: 0.000531 T
+
+Simulation 90:
+Configuration:
+  current: 0.9711448221129478
+  n_turns: 28
+  conductor_thickness: 0.00014217843085175726
+  spacing_between_coils: 9.209850165367277e-05
+  radius_coil: 0.00654592076224547
+  central_gap_radius: 0.0022805482641753147
+  num_points: 700
+Results:
+  Max Field: 0.003630 T
+  Min Field: 0.000391 T
+  Mean Field: 0.001292 T
+  Median Field: 0.001058 T
+  Standard Deviation: 0.000705 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003630 T
+    At 0.73 mm: 0.003441 T
+    At 1.45 mm: 0.002990 T
+    At 2.18 mm: 0.002482 T
+    At 2.91 mm: 0.002025 T
+    At 3.64 mm: 0.001645 T
+    At 4.36 mm: 0.001340 T
+    At 5.09 mm: 0.001101 T
+    At 5.82 mm: 0.000905 T
+    At 6.55 mm: 0.000749 T
+
+Simulation 91:
+Configuration:
+  current: 0.7052377720228136
+  n_turns: 26
+  conductor_thickness: 0.00023141799976755668
+  spacing_between_coils: 0.0001467182723608429
+  radius_coil: 0.00139964572434912
+  central_gap_radius: 0.0004092112950326988
+  num_points: 700
+Results:
+  Max Field: 0.004371 T
+  Min Field: 0.001578 T
+  Mean Field: 0.002375 T
+  Median Field: 0.002224 T
+  Standard Deviation: 0.000538 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.004371 T
+    At 0.16 mm: 0.004124 T
+    At 0.31 mm: 0.003646 T
+    At 0.47 mm: 0.003224 T
+    At 0.62 mm: 0.002898 T
+    At 0.78 mm: 0.002640 T
+    At 0.93 mm: 0.002430 T
+    At 1.09 mm: 0.002256 T
+    At 1.24 mm: 0.002102 T
+    At 1.40 mm: 0.001967 T
+
+Simulation 92:
+Configuration:
+  current: 0.5125979118770133
+  n_turns: 25
+  conductor_thickness: 0.0002323464585231693
+  spacing_between_coils: 0.00011403830886978474
+  radius_coil: 0.007355122301197387
+  central_gap_radius: 0.004723147657948931
+  num_points: 700
+Results:
+  Max Field: 0.000991 T
+  Min Field: 0.000233 T
+  Mean Field: 0.000540 T
+  Median Field: 0.000498 T
+  Standard Deviation: 0.000182 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000991 T
+    At 0.82 mm: 0.000972 T
+    At 1.63 mm: 0.000918 T
+    At 2.45 mm: 0.000842 T
+    At 3.27 mm: 0.000755 T
+    At 4.09 mm: 0.000668 T
+    At 4.90 mm: 0.000587 T
+    At 5.72 mm: 0.000512 T
+    At 6.54 mm: 0.000445 T
+    At 7.36 mm: 0.000387 T
+
+Simulation 93:
+Configuration:
+  current: 0.6954489774381052
+  n_turns: 35
+  conductor_thickness: 0.00012801851030030723
+  spacing_between_coils: 0.00011295252039472899
+  radius_coil: 0.007200968823536696
+  central_gap_radius: 0.0036154233141578716
+  num_points: 700
+Results:
+  Max Field: 0.002226 T
+  Min Field: 0.000408 T
+  Mean Field: 0.001058 T
+  Median Field: 0.000941 T
+  Standard Deviation: 0.000426 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.002226 T
+    At 0.80 mm: 0.002164 T
+    At 1.60 mm: 0.001998 T
+    At 2.40 mm: 0.001778 T
+    At 3.20 mm: 0.001546 T
+    At 4.00 mm: 0.001328 T
+    At 4.80 mm: 0.001139 T
+    At 5.60 mm: 0.000972 T
+    At 6.40 mm: 0.000829 T
+    At 7.20 mm: 0.000709 T
+
+Simulation 94:
+Configuration:
+  current: 0.11185127500016395
+  n_turns: 27
+  conductor_thickness: 9.975344124359195e-05
+  spacing_between_coils: 9.431300198811931e-05
+  radius_coil: 0.009419018516199288
+  central_gap_radius: 0.00832580135944081
+  num_points: 700
+Results:
+  Max Field: 0.000178 T
+  Min Field: 0.000043 T
+  Mean Field: 0.000102 T
+  Median Field: 0.000096 T
+  Standard Deviation: 0.000033 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000178 T
+    At 1.05 mm: 0.000176 T
+    At 2.09 mm: 0.000168 T
+    At 3.14 mm: 0.000156 T
+    At 4.19 mm: 0.000142 T
+    At 5.23 mm: 0.000127 T
+    At 6.28 mm: 0.000113 T
+    At 7.33 mm: 0.000098 T
+    At 8.37 mm: 0.000086 T
+    At 9.42 mm: 0.000074 T
+
+Simulation 95:
+Configuration:
+  current: 0.6883343768046727
+  n_turns: 21
+  conductor_thickness: 0.0001893513344935762
+  spacing_between_coils: 0.00013293561385969136
+  radius_coil: 0.0034564126006825513
+  central_gap_radius: 0.0007909598870486808
+  num_points: 700
+Results:
+  Max Field: 0.003292 T
+  Min Field: 0.000493 T
+  Mean Field: 0.001202 T
+  Median Field: 0.001035 T
+  Standard Deviation: 0.000536 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003292 T
+    At 0.38 mm: 0.003004 T
+    At 0.77 mm: 0.002491 T
+    At 1.15 mm: 0.002052 T
+    At 1.54 mm: 0.001713 T
+    At 1.92 mm: 0.001448 T
+    At 2.30 mm: 0.001240 T
+    At 2.69 mm: 0.001066 T
+    At 3.07 mm: 0.000922 T
+    At 3.46 mm: 0.000801 T
+
+Simulation 96:
+Configuration:
+  current: 0.20138177384964578
+  n_turns: 37
+  conductor_thickness: 0.00021401421759352244
+  spacing_between_coils: 0.0001270941013330252
+  radius_coil: 0.007915825748147363
+  central_gap_radius: 0.0009386755832234424
+  num_points: 700
+Results:
+  Max Field: 0.001057 T
+  Min Field: 0.000091 T
+  Mean Field: 0.000269 T
+  Median Field: 0.000219 T
+  Standard Deviation: 0.000153 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001057 T
+    At 0.88 mm: 0.000852 T
+    At 1.76 mm: 0.000636 T
+    At 2.64 mm: 0.000496 T
+    At 3.52 mm: 0.000399 T
+    At 4.40 mm: 0.000326 T
+    At 5.28 mm: 0.000270 T
+    At 6.16 mm: 0.000227 T
+    At 7.04 mm: 0.000191 T
+    At 7.92 mm: 0.000161 T
+
+Simulation 97:
+Configuration:
+  current: 0.524901625985182
+  n_turns: 37
+  conductor_thickness: 0.00014187118640482415
+  spacing_between_coils: 0.00012354884161223063
+  radius_coil: 0.006295865968870936
+  central_gap_radius: 0.0032904770621842326
+  num_points: 700
+Results:
+  Max Field: 0.001756 T
+  Min Field: 0.000414 T
+  Mean Field: 0.000928 T
+  Median Field: 0.000849 T
+  Standard Deviation: 0.000315 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.001756 T
+    At 0.70 mm: 0.001715 T
+    At 1.40 mm: 0.001604 T
+    At 2.10 mm: 0.001454 T
+    At 2.80 mm: 0.001292 T
+    At 3.50 mm: 0.001137 T
+    At 4.20 mm: 0.000998 T
+    At 4.90 mm: 0.000872 T
+    At 5.60 mm: 0.000762 T
+    At 6.30 mm: 0.000667 T
+
+Simulation 98:
+Configuration:
+  current: 0.7663629525635929
+  n_turns: 31
+  conductor_thickness: 0.00011678510840734925
+  spacing_between_coils: 9.411967683187039e-05
+  radius_coil: 0.005646716716758995
+  central_gap_radius: 0.0011832336003731138
+  num_points: 700
+Results:
+  Max Field: 0.004460 T
+  Min Field: 0.000359 T
+  Mean Field: 0.001251 T
+  Median Field: 0.000982 T
+  Standard Deviation: 0.000776 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.004460 T
+    At 0.63 mm: 0.003999 T
+    At 1.25 mm: 0.003178 T
+    At 1.88 mm: 0.002482 T
+    At 2.51 mm: 0.001955 T
+    At 3.14 mm: 0.001557 T
+    At 3.76 mm: 0.001260 T
+    At 4.39 mm: 0.001022 T
+    At 5.02 mm: 0.000837 T
+    At 5.65 mm: 0.000690 T
+
+Simulation 99:
+Configuration:
+  current: 0.9651914952195956
+  n_turns: 22
+  conductor_thickness: 0.000191396473139733
+  spacing_between_coils: 0.00012633549218982355
+  radius_coil: 0.002266293656199914
+  central_gap_radius: 0.0018919218645194122
+  num_points: 700
+Results:
+  Max Field: 0.003082 T
+  Min Field: 0.001425 T
+  Mean Field: 0.002229 T
+  Median Field: 0.002172 T
+  Standard Deviation: 0.000394 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.003082 T
+    At 0.25 mm: 0.003054 T
+    At 0.50 mm: 0.002973 T
+    At 0.76 mm: 0.002850 T
+    At 1.01 mm: 0.002700 T
+    At 1.26 mm: 0.002535 T
+    At 1.51 mm: 0.002371 T
+    At 1.76 mm: 0.002204 T
+    At 2.01 mm: 0.002045 T
+    At 2.27 mm: 0.001894 T
+
+Simulation 100:
+Configuration:
+  current: 0.12779509476081133
+  n_turns: 21
+  conductor_thickness: 0.00012866025798466686
+  spacing_between_coils: 0.00011247076197084307
+  radius_coil: 0.009035714706383076
+  central_gap_radius: 0.002076073000101462
+  num_points: 700
+Results:
+  Max Field: 0.000425 T
+  Min Field: 0.000014 T
+  Mean Field: 0.000082 T
+  Median Field: 0.000053 T
+  Standard Deviation: 0.000075 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000425 T
+    At 1.00 mm: 0.000375 T
+    At 2.01 mm: 0.000279 T
+    At 3.01 mm: 0.000199 T
+    At 4.02 mm: 0.000141 T
+    At 5.02 mm: 0.000102 T
+    At 6.02 mm: 0.000075 T
+    At 7.03 mm: 0.000056 T
+    At 8.03 mm: 0.000042 T
+    At 9.04 mm: 0.000033 T
 
