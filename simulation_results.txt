@@ -1,0 +1,27 @@
+Simulation 1:
+Configuration:
+  current: 1.0
+  n_turns: 25
+  conductor_thickness: 0.00089
+  spacing_between_coils: 0.0089
+  radius_coil: 0.045
+  central_gap_radius: 0.02
+  num_points: 700
+Results:
+  Max Field: 0.000182 T
+  Min Field: 0.000073 T
+  Mean Field: 0.000113 T
+  Median Field: 0.000107 T
+  Standard Deviation: 0.000024 T
+  Magnetic field at different distances from center:
+    At 0.00 mm: 0.000182 T
+    At 5.00 mm: 0.000177 T
+    At 10.00 mm: 0.000166 T
+    At 15.00 mm: 0.000152 T
+    At 20.00 mm: 0.000139 T
+    At 25.00 mm: 0.000128 T
+    At 30.00 mm: 0.000117 T
+    At 35.00 mm: 0.000109 T
+    At 40.00 mm: 0.000101 T
+    At 45.00 mm: 0.000094 T
+
