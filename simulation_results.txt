@@ -9,6 +9,7 @@ Configuration:
   num_points: 700
 Results:
   Max Field: 0.003974 T
+  Min Field: 0.001615 T
   Mean Field: 0.002420 T
   Median Field: 0.002288 T
   Standard Deviation: 0.000501 T
